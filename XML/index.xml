@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Materia>
+    <!-- Información de la materia -->
+    <Nombre>Aplicaciones Web</Nombre>
+    <Codigo>TDI-503</Codigo>
+    <Descripcion>Curso introductorio sobre el desarrollo de aplicaciones web.</Descripcion>
+    <Creditos>144</Creditos>
+    
+    <!-- Información del estudiante -->
+    <Estudiante>
+        <Nombre>Daniel Josué Cedeño Sornoza</Nombre>
+        <Curso>Quinto Nivel "A"</Curso>
+    </Estudiante>
+    
+    <!-- Información del profesor -->
+    <Profesor>
+        <Nombre>Ing. Patricia Quiroz</Nombre>
+        <Correo>patricia.quiroz@uleam.edu.ec</Correo>
+        <Horario>MAR15:00-16:00 MAR16:00-17:00 MIE15:00-16:00 MIE16:00-17:00 JUE15:00-16:00 JUE16:00-17:00</Horario>
+    </Profesor>
+    
+    <!-- Temas del curso -->
+    <Temas>
+        <Tema>
+            <Nombre>Introducción a las Aplicaciones Web</Nombre>
+            <Descripcion>Conceptos básicos, arquitectura de aplicaciones web, y tecnologías fundamentales.</Descripcion>
+        </Tema>
+        <Tema>
+            <Nombre>Desarrollo Frontend</Nombre>
+            <Descripcion>HTML, CSS, JavaScript, y frameworks frontend como React, Angular o Vue.js.</Descripcion>
+        </Tema>
+        <Tema>
+            <Nombre>Formatos semi-estructurados</Nombre>
+            <Descripcion>Formatos semi-estructurados como XML y JSON</Descripcion>
+        </Tema>
+
+    </Temas>
+</Materia>
